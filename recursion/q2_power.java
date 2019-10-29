@@ -4,11 +4,11 @@ public class q2_power
 
   public static int pow(int x,int n)
   {
-   if(n==0)
+   if(n==0)       //base class
     return 1;
 
-   int a=power(x,n/2);
-   int p=a*a;
+   int a=power(x,n/2);//recursive call
+   int p=a*a;          //small calculations
 
    if(n%2==1)
     p=p*x;
