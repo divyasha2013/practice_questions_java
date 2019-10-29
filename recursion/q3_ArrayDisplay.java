@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrayDisplay_recursion
+public class q3_ArrayDisplay
 {
     public static void display1(int[] arr,int indx)
     {

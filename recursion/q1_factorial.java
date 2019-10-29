@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class factorial_recursion
+public class q1_factorial
 {
   public static int fact(int n)
   {

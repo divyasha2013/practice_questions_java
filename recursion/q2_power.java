@@ -1,5 +1,5 @@
 import java.util.*;
-public class power_recursion
+public class q2_power
 {
 
   public static int pow(int x,int n)
